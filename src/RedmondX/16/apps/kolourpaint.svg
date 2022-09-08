@@ -7,7 +7,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg3402"
-   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
    sodipodi:docname="kolourpaint.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="52.125"
-     inkscape:cx="7.9904077"
+     inkscape:zoom="51.6875"
+     inkscape:cx="7.9903265"
      inkscape:cy="8"
      inkscape:window-width="1920"
-     inkscape:window-height="1012"
+     inkscape:window-height="1029"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -44,7 +44,8 @@
        y1="1.0003383"
        x2="8.5006781"
        y2="3.9841764"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.0054165,-6.7806244e-4,-0.00541832)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient2756">
@@ -65,7 +66,8 @@
        y1="3.0003381"
        x2="4.5006776"
        y2="6.0003381"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-6.7853928e-4)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient3200">
@@ -86,7 +88,8 @@
        y1="7.0003376"
        x2="2.5006781"
        y2="10.000338"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-6.7877769e-4)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient3208">
@@ -122,26 +125,25 @@
     </linearGradient>
   </defs>
   <path
-     d="M 9.3267734,2.0565832e-4 C 7.2822047,0.01931666 5.1427477,0.77785066 3.5038107,2.2879113 -1.4178073,6.8225199 0.04970272,11.854005 0.80926272,12.768876 c 0.75956098,0.914871 1.70243598,0.61695 2.04675098,0.48768 0.544802,-0.157333 2.420526,-2.188033 2.420526,-2.188033 0.873833,-0.849828 1.50111,-0.117471 1.50111,-0.117471 1.2335663,1.307229 -1.214122,1.564091 -0.898984,3.476648 0.315139,1.912556 1.9385841,1.543725 1.9385841,1.543725 C 14.521299,14.678611 15.676144,8.6716535 15.676144,8.6716535 17.112178,2.9811236 13.540937,0.05765316 9.5250789,0.00139226 9.4593429,4.7125832e-4 9.3927274,-4.0774168e-4 9.3267734,2.0225832e-4 Z M 8.6405175,8.0712486 C 9.2497358,8.0714636 9.7435602,8.5563543 9.743815,9.1545865 9.7442278,9.7532822 9.250208,10.238896 8.6405175,10.239111 8.0308266,10.238897 7.5368057,9.7532827 7.5372187,9.1545865 7.5374737,8.5563538 8.0312987,8.071463 8.6405175,8.0712486 Z"
+     id="path3267"
      style="fill:url(#linearGradient3347);fill-opacity:1;stroke-width:1.1189"
-     id="path3267" />
+     d="M 9.3261719 0 C 7.2816052 0.019110983 5.1428416 0.77705025 3.5039062 2.2871094 C -1.4177068 6.8217134 0.04903451 11.854661 0.80859375 12.769531 C 1.568154 13.684401 2.5111541 13.385129 2.8554688 13.255859 C 3.4002702 13.098527 5.2773438 11.068359 5.2773438 11.068359 C 6.1511759 10.218532 6.7773438 10.951172 6.7773438 10.951172 C 8.0109088 12.2584 5.5637686 12.515179 5.8789062 14.427734 C 6.1940449 16.340288 7.8164062 15.970703 7.8164062 15.970703 C 14.520449 14.67789 15.675781 8.671875 15.675781 8.671875 C 17.111814 2.9813508 13.541245 0.058213969 9.5253906 0.001953125 C 9.4596547 0.0010321242 9.3921258 -0.00060999939 9.3261719 0 z M 8 8 C 8.5521786 8.0001984 8.9997694 8.448091 9 9 C 9.000374 9.5523367 8.5526066 9.9998013 8 10 C 7.4473931 9.9998027 6.9996256 9.5523374 7 9 C 7.0002311 8.4480905 7.4478211 8.0001978 8 8 z " />
   <circle
      style="fill:url(#linearGradient3210);fill-opacity:1"
      id="path1872"
-     cx="2.5006788"
+     cx="2.5"
      cy="8.5003376"
      r="1.5" />
   <circle
      style="fill:url(#linearGradient3202);fill-opacity:1"
      id="path1874"
-     cx="4.5006785"
+     cx="4.5"
      cy="4.5003386"
      r="1.5" />
-  <ellipse
-     style="fill:url(#linearGradient2758);fill-opacity:1"
+  <circle
+     style="fill:url(#linearGradient2758);fill-opacity:1;stroke-width:1.0027"
      id="path1876"
-     cx="8.5006781"
-     cy="2.4922576"
-     rx="1.5"
-     ry="1.491919" />
+     cx="8.5"
+     cy="2.5003386"
+     r="1.5" />
 </svg>

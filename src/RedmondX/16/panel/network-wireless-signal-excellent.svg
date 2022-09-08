@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="network-wireless-signal-excellent.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="51.6875"
+     inkscape:cx="7.9903265"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+         .ColorScheme-Text { color:#dedede; }
+    </style>
+  </defs>
+  <path
+     id="path234"
+     style="fill:currentColor;fill-opacity:1;stroke-linecap:round;-inkscape-stroke:none;opacity:1"
+     class="ColorScheme-Text"
+     d="M 14.5 1 C 7.0501154 1 1 7.0501152 1 14.5 C 1 14.776142 1.2238585 15 1.5 15 C 1.7761415 15 2 14.776142 2 14.5 C 2 7.5905528 7.590553 2 14.5 2 C 14.776142 2 15 1.7761415 15 1.5 C 15 1.2238585 14.776142 1 14.5 1 z M 14.5 5 C 9.2592432 5 5 9.2592432 5 14.5 C 5 14.776142 5.2238585 15 5.5 15 C 5.7761415 15 6 14.776142 6 14.5 C 6 9.7996808 9.7996808 6 14.5 6 C 14.776142 6 15 5.7761415 15 5.5 C 15 5.2238585 14.776142 5 14.5 5 z M 14.5 9 C 11.468369 9 9 11.468368 9 14.5 C 9 14.776142 9.2238582 15 9.5 15 C 9.7761418 15 10 14.776142 10 14.5 C 10 12.008805 12.008806 10 14.5 10 C 14.776142 10 15 9.7761418 15 9.5 C 15 9.2238582 14.776142 9 14.5 9 z M 14 13 C 13.447716 13 13 13.447716 13 14 C 13 14.552284 13.447716 15 14 15 C 14.552284 15 15 14.552284 15 14 C 15 13.447716 14.552284 13 14 13 z " />
+</svg>

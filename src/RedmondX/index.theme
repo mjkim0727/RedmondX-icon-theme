@@ -46,6 +46,11 @@ Context=Devices
 Size=16
 Type=Fixed
 
+[16/emblems]
+Context=Emblems
+Size=16
+Type=Fixed
+
 [16/mimetypes]
 Context=MimeTypes
 Size=16
