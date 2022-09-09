@@ -33,12 +33,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient1301"
        id="linearGradient1038"
-       x1="0"
-       y1="0"
-       x2="4.2332802"
-       y2="4.2332802"
+       x1="0.49999949"
+       y1="7.9999995"
+       x2="15.499999"
+       y2="7.9999995"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(3.779575)" />
+       gradientTransform="matrix(3.779575,0,0,3.779575,0.4999995,0.4999995)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient3867">
@@ -91,8 +91,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="51.6875"
-     inkscape:cx="7.9903265"
+     inkscape:zoom="53.3125"
+     inkscape:cx="8"
      inkscape:cy="8"
      inkscape:document-units="px"
      inkscape:current-layer="svg1886"
@@ -122,10 +122,10 @@
   <rect
      style="fill:url(#linearGradient1038);fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
      id="rect950"
-     width="16"
-     height="16"
-     x="0"
-     y="0"
+     width="15"
+     height="15"
+     x="0.49999949"
+     y="0.49999949"
      ry="1" />
   <path
      id="rect3465"

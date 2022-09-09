@@ -4,9 +4,9 @@
 <svg
    width="32"
    height="32"
-   viewBox="0 0 32 32"
+   viewBox="0 0 32 32.000002"
    version="1.1"
-   id="svg2112"
+   id="svg580"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
    sodipodi:docname="preferences-desktop-display.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -15,7 +15,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview2114"
+     id="namedview582"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -25,49 +25,38 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="25.3125"
-     inkscape:cx="14.933333"
-     inkscape:cy="16.019753"
+     inkscape:zoom="26.65625"
+     inkscape:cx="16"
+     inkscape:cy="16"
      inkscape:window-width="1920"
      inkscape:window-height="1029"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2112" />
+     inkscape:current-layer="svg580"
+     showguides="false" />
   <defs
-     id="defs2109">
+     id="defs577">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient2986"
+       xlink:href="#linearGradient3846"
        id="linearGradient2988"
        x1="0.092813492"
        y1="10.202362"
        x2="0.092813492"
        y2="13.470933"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1825939,0,0,1.2237764,17.890239,9.5145895)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient2986">
-      <stop
-         style="stop-color:#333333;stop-opacity:1"
-         offset="0"
-         id="stop2982" />
-      <stop
-         style="stop-color:#424242;stop-opacity:1"
-         offset="1"
-         id="stop2984" />
-    </linearGradient>
+       gradientTransform="matrix(1.1825939,0,0,1.2237766,17.89024,9.5145893)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1116"
-       id="linearGradient1118"
-       x1="1.0583334"
-       y1="7.276042"
-       x2="15.875"
-       y2="7.276042"
+       id="linearGradient1908"
+       x1="4"
+       y1="32"
+       x2="60"
+       y2="32"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.8897638,0,0,1.8413083,3e-8,1.1025636)" />
+       gradientTransform="matrix(0.5,0,0,0.50000002,0,-1.4999995)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1116">
@@ -83,47 +72,50 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2301"
-       id="linearGradient1104"
-       x1="0.79373997"
-       y1="1.5874799"
-       x2="7.6728196"
-       y2="6.08534"
+       id="linearGradient3240"
+       x1="17.902164"
+       y1="29.999403"
+       x2="60"
+       y2="51"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(3.7795752)" />
+       gradientTransform="matrix(0.48148148,0,0,0.4722222,0.59259259,-0.61111026)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3846">
+      <stop
+         style="stop-color:#333333;stop-opacity:1;"
+         offset="0"
+         id="stop3842" />
+      <stop
+         style="stop-color:#535353;stop-opacity:1;"
+         offset="1"
+         id="stop3844" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient2301">
       <stop
-         style="stop-color:#808080;stop-opacity:1"
+         style="stop-color:#333333;stop-opacity:1;"
          offset="0"
          id="stop2297" />
       <stop
-         style="stop-color:#333333;stop-opacity:1"
+         style="stop-color:#808080;stop-opacity:1;"
          offset="1"
          id="stop2299" />
     </linearGradient>
   </defs>
   <path
      id="rect958"
-     style="fill:#333333;fill-opacity:1;stroke-width:2.50001;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#333333;stroke-width:2.50001;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
      d="m 10.5,25.500001 h 10.999999 l 1.499997,1.5 H 8.9999997 Z"
      sodipodi:nodetypes="ccccc" />
   <rect
-     style="fill:url(#linearGradient2988);fill-opacity:1;stroke-width:1.59148;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:url(#linearGradient2988);fill-opacity:1.0;stroke-width:1.59148;stroke-linecap:round;stroke-linejoin:round"
      id="rect2848"
      width="4"
      height="4"
      x="14"
-     y="22" />
-  <path
-     id="rect1418"
-     style="fill:#b8c2cc;stroke-width:2.50001;stroke-linecap:round;stroke-linejoin:round"
-     d="M 4.0000001,4 H 27.999997 c 1.192063,0 2,0.7925296 2,2 v 6.5 H 2 V 6 C 2,4.6894455 2.7239508,4 4.0000001,4 Z"
-     sodipodi:nodetypes="sssccss" />
-  <path
-     id="rect846-3"
-     style="fill:url(#linearGradient1118);stroke-width:2.46775;stroke-linecap:round;stroke-linejoin:round"
-     d="M 3.5000001,4.9999996 H 28.499997 c 0.831004,0 1.5,0.6689999 1.5,1.5 V 22.499997 c 0,0.831001 -0.668996,1.500004 -1.5,1.500004 H 3.5000001 C 2.6690003,24.000001 2,23.330998 2,22.499997 V 6.4999996 c 0,-0.8310001 0.6690003,-1.5 1.5000001,-1.5 z" />
+     y="22.000002" />
   <rect
      style="fill:#44484c;fill-opacity:1;stroke-width:2.50001;stroke-linecap:round;stroke-linejoin:round"
      id="rect1839"
@@ -132,8 +124,27 @@
      x="8.999999"
      y="27.000006" />
   <path
-     id="rect2053"
-     style="fill:url(#linearGradient1104);fill-opacity:1;stroke-width:2.40741;stroke-linecap:round;stroke-linejoin:round"
-     d="M 3.9629632,5.9999996 H 28.037033 c 0.533484,0 0.962964,0.4294811 0.962964,0.9629624 v 15.074553 c 0,0.533484 -0.42948,0.962967 -0.962964,0.962967 H 3.9629632 C 3.4294815,23.000482 3,22.570999 3,22.037515 V 6.962962 C 3,6.4294807 3.4294815,5.9999996 3.9629632,5.9999996 Z"
-     sodipodi:nodetypes="sssssssss" />
+     id="rect1418"
+     style="fill:#b8c2cc;stroke-width:2.50001;stroke-linecap:round;stroke-linejoin:round"
+     d="M 3.0000001,4 H 29 l 1,1 v 7.5 H 2.0000001 L 2,5 Z"
+     sodipodi:nodetypes="ccccccc" />
+  <rect
+     style="fill:url(#linearGradient1908);fill-opacity:1;stroke-width:0.5;stroke-linecap:round"
+     id="rect1537"
+     width="28"
+     height="19"
+     x="2"
+     y="5" />
+  <rect
+     style="fill:url(#linearGradient3240);fill-opacity:1.0;stroke-width:0.476829;stroke-linecap:round"
+     id="rect1910"
+     width="26"
+     height="17"
+     x="3"
+     y="6" />
+  <path
+     d="M 3,6 H 18 L 8.0000001,22.999999 H 3 Z"
+     style="color:#000000;opacity:0.15;fill:#ffffff;stroke-width:0.374587"
+     id="path3898"
+     sodipodi:nodetypes="ccccc" />
 </svg>
