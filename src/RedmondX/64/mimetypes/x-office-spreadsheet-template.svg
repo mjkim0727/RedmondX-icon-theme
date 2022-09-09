@@ -25,7 +25,7 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="12.921875"
-     inkscape:cx="31.961306"
+     inkscape:cx="32"
      inkscape:cy="32"
      inkscape:window-width="1920"
      inkscape:window-height="1029"
@@ -39,22 +39,22 @@
   <path
      id="rect1054"
      style="fill:#7d7d7b;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-     d="m 10,4 h 38.000007 l 5.999992,2 4e-6,54.000005 H 13.999998 V 55.999999 H 10 Z"
+     d="m 11,4 h 36.000007 l 5.999992,2 4e-6,54.000005 H 14.999998 V 55.999999 H 11 Z"
      sodipodi:nodetypes="cccccccc" />
   <path
      id="rect1308"
      style="fill:#fafafa;fill-opacity:1;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round"
-     d="M 11,17 V 55 H 49.000001 V 17 Z M 50,6 V 55.999999 H 15.000001 v 3 H 53 V 6.5 Z"
+     d="M 12,17 V 55 H 48.000001 V 17 Z M 49,6 V 55.999999 H 16.000001 v 3 H 52 V 6.5 Z"
      sodipodi:nodetypes="cccccccccccc" />
   <path
      id="rect6964"
      style="fill:#a0e68e;fill-opacity:1;stroke-width:2.78796;stroke-linecap:round;stroke-linejoin:round"
-     d="M 10.000001,4.0000004 48.999998,4 v 14 l -38.999997,1e-6 z"
+     d="M 11.000001,4.0000004 47.999998,4 v 14 l -36.999997,1e-6 z"
      sodipodi:nodetypes="ccccc" />
   <path
      id="rect13579"
      style="fill:#67c451;fill-opacity:1;stroke-width:2.82019;stroke-linecap:round;stroke-linejoin:round"
-     d="m 48.999998,4 v 2 l 5.000001,2.0000001 V 6 Z M 10,17 v 1.000001 H 48.999998 V 17 Z"
+     d="m 47.999998,4 v 2 l 5.000001,2.0000001 V 6 Z M 11,17 v 1.000001 H 47.999998 V 17 Z"
      sodipodi:nodetypes="cccccccccc" />
   <path
      id="rect5723"
