@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="25.84375"
-     inkscape:cx="16"
-     inkscape:cy="16"
+     inkscape:zoom="26.65625"
+     inkscape:cx="13.205158"
+     inkscape:cy="16.075029"
      inkscape:window-width="1920"
      inkscape:window-height="1029"
      inkscape:window-x="0"
@@ -46,7 +46,7 @@
      d="M 6.0000007,2.0000006 V 28.000001 H 24.000001 V 2.0000006 Z m 19.0000003,0 V 29.000001 h -1 -16.0000002 v 1 H 26.000001 V 2.0000006 Z"
      sodipodi:nodetypes="ccccccccccccc" />
   <rect
-     style="fill:#4a7fe7;fill-opacity:1;stroke-width:1.39398;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#41a5ee;fill-opacity:1;stroke-width:1.39398;stroke-linecap:round;stroke-linejoin:round"
      id="rect6964"
      width="19"
      height="7"
@@ -54,14 +54,41 @@
      y="1.0000002" />
   <path
      id="rect13579"
-     style="fill:#1859bb;fill-opacity:1;stroke-width:1.41009;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#2b7cd3;fill-opacity:1;stroke-width:1.41009;stroke-linecap:round;stroke-linejoin:round"
      d="m 23.999999,1 v 0.9999999 l 2.999999,1.0000003 V 1.9999998 Z M 5,7 V 8 H 23.999999 V 7 Z"
      sodipodi:nodetypes="cccccccccc" />
-  <path
-     id="rect1708"
-     style="fill:#c0c5cb;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-     d="m 10,13 v 0.999999 H 22 V 13 Z m 0,1.999999 V 16 h 12 v -1.000001 z m 0,2 V 18 h 12 v -1.000001 z m 0,2 v 1 h 12 v -1 z M 10,21 v 0.999999 H 22 V 21 Z"
-     sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+  <rect
+     style="fill:#103f91;fill-opacity:1;stroke-width:0.387298;stroke-linecap:round"
+     id="rect445"
+     width="6"
+     height="0.99999988"
+     x="16"
+     y="19.999998"
+     ry="0.49999994" />
+  <rect
+     style="fill:#1859bb;fill-opacity:1;stroke-width:1.41421;stroke-linecap:round"
+     id="rect341"
+     width="6"
+     height="1"
+     x="16"
+     y="17.999998"
+     ry="0.5" />
+  <rect
+     style="fill:#2b7cd3;fill-opacity:1;stroke-width:1.41421;stroke-linecap:round"
+     id="rect343"
+     width="6"
+     height="1"
+     x="16"
+     y="15.999998"
+     ry="0.5" />
+  <rect
+     style="fill:#41a5ee;fill-opacity:1;stroke-width:1.41421;stroke-linecap:round"
+     id="rect345"
+     width="6"
+     height="1"
+     x="16"
+     y="13.999999"
+     ry="0.5" />
   <path
      id="rect2355"
      style="fill:#1859bb;stroke-width:10.0698;stroke-linecap:round;stroke-linejoin:round"

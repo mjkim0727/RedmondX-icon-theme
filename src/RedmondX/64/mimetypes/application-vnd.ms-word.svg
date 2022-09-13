@@ -24,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="12.921875"
-     inkscape:cx="32"
+     inkscape:zoom="13.328125"
+     inkscape:cx="31.962485"
      inkscape:cy="32"
      inkscape:window-width="1920"
      inkscape:window-height="1029"
@@ -46,11 +46,38 @@
      style="fill:#fafafa;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      d="M 13,5 V 59 H 51 V 17 H 40 c -0.554003,0 -1,-0.446 -1,-1 V 5 Z m 27,0 v 11 h 11 z"
      sodipodi:nodetypes="ccccsscccccc" />
-  <path
-     id="rect1305"
-     style="fill:#c0c5cb;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-     d="M 19.000001,23 C 18.446,23 18,23.446 18,24 c 0,0.554 0.446,1 1.000001,1 h 28 C 47.554,25 48,24.554 48,24 48,23.446 47.554,23 47.000001,23 Z m 0,4.999999 c -0.554001,0 -1.000001,0.446 -1.000001,1 0,0.554 0.446,1 1.000001,1 h 28 c 0.553999,0 0.999999,-0.446 0.999999,-1 0,-0.554 -0.446,-1 -0.999999,-1 z m 0,5 c -0.554001,0 -1.000001,0.446 -1.000001,1 0,0.554 0.446,1 1.000001,1 h 28 c 0.553999,0 0.999999,-0.446 0.999999,-1 0,-0.554 -0.446,-1 -0.999999,-1 z m 0,5.000002 C 18.446,38.000001 18,38.446 18,38.999999 c 0,0.554 0.446,0.999999 1.000001,0.999999 h 28 C 47.554,39.999998 48,39.553999 48,38.999999 48,38.446 47.554,38.000001 47.000001,38.000001 Z m 0,4.999997 C 18.446,42.999998 18,43.445997 18,44.000001 c 0,0.553999 0.446,0.999998 1.000001,0.999998 h 28 C 47.554,44.999999 48,44.554 48,44.000001 48,43.445997 47.554,42.999998 47.000001,42.999998 Z"
-     sodipodi:nodetypes="sssssssssssssssssssssssssssssssssss" />
+  <rect
+     style="fill:#103f91;fill-opacity:1;stroke-width:0.836656;stroke-linecap:round"
+     id="rect445"
+     width="14"
+     height="1.9999998"
+     x="33"
+     y="40"
+     ry="0.99999988" />
+  <rect
+     style="fill:#1859bb;fill-opacity:1;stroke-width:3.05505;stroke-linecap:round"
+     id="rect341"
+     width="14"
+     height="2"
+     x="33"
+     y="35"
+     ry="1" />
+  <rect
+     style="fill:#2b7cd3;fill-opacity:1;stroke-width:3.05505;stroke-linecap:round"
+     id="rect343"
+     width="14"
+     height="2"
+     x="33"
+     y="30"
+     ry="1" />
+  <rect
+     style="fill:#41a5ee;fill-opacity:1;stroke-width:3.05505;stroke-linecap:round"
+     id="rect345"
+     width="14"
+     height="2"
+     x="33"
+     y="25"
+     ry="1" />
   <path
      id="rect1973"
      style="fill:#1859bb;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"

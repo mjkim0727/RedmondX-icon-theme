@@ -26,8 +26,8 @@
      showgrid="false"
      units="px"
      width="64px"
-     inkscape:zoom="51.6875"
-     inkscape:cx="7.9903265"
+     inkscape:zoom="53.3125"
+     inkscape:cx="8"
      inkscape:cy="8"
      inkscape:window-width="1920"
      inkscape:window-height="1029"
@@ -145,6 +145,6 @@
   <path
      id="rect4401"
      style="fill:#ffffff;fill-opacity:1;stroke-width:0.777778;stroke-linecap:round;stroke-linejoin:round"
-     d="M 5,5 V 7.0000001 H 7.0000001 V 5 Z M 9.0000002,5 V 7.0000001 H 11 V 5 Z M 13,5 v 2.0000001 h 2 V 5 Z M 1,8.9999999 V 11 H 3.0000002 V 8.9999999 Z m 4,0 V 11 H 7.0000001 V 8.9999999 Z m 4.0000002,0 V 11 H 11 V 8.9999999 Z m 3.9999998,0 V 11 h 2 V 8.9999999 Z M 1,13 v 2 h 2.0000002 v -2 z m 4,0 v 2 h 2.0000001 v -2 z m 4.0000002,0 v 2 H 11 v -2 z"
+     d="M 6,6 V 7.0000001 H 7.0000001 V 6 Z M 9.0000002,6 V 7.0000001 H 10 V 6 Z M 12,6 v 1.0000001 h 1 V 6 Z M 3,8.9999999 V 10 H 4.0000002 V 8.9999999 Z m 3,0 V 10 H 7.0000001 V 8.9999999 Z m 3.0000002,0 V 10 H 10 V 8.9999999 Z m 2.9999998,0 V 10 h 1 V 8.9999999 Z M 3,12 v 1 h 1.0000002 v -1 z m 3,0 v 1 h 1.0000001 v -1 z m 3.0000002,0 v 1 H 10 v -1 z"
      sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc" />
 </svg>
