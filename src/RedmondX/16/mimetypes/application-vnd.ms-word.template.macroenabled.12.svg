@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="53.3125"
-     inkscape:cx="7.9906213"
+     inkscape:zoom="50.3125"
+     inkscape:cx="7.9900621"
      inkscape:cy="8"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -39,12 +39,12 @@
   <path
      id="rect234"
      style="fill:#7d7d7b"
-     d="m 2,0 h 9.5 L 14,2.5 V 16 H 2 Z"
+     d="m 3,0 h 9.5 L 15,2.5 V 16 H 3 Z"
      sodipodi:nodetypes="cccccc" />
   <path
      id="rect1746"
      style="fill:#fafafa"
-     d="m 3,1 h 7 v 2 h 3 V 15 H 3 Z"
+     d="m 4,1 h 7 v 2 h 3 V 15 H 4 Z"
      sodipodi:nodetypes="ccccccc" />
   <path
      id="rect1800"
@@ -56,44 +56,44 @@
      id="rect573"
      width="12"
      height="4"
-     x="2"
+     x="3"
      y="0" />
   <path
-     d="M 2.0000001,2.9999995 V 4 H 14 V 2.9999995 Z"
+     d="M 3.0000001,2.9999995 V 4 H 15 V 2.9999995 Z"
      style="fill:#2b7cd3;fill-opacity:1;stroke-width:1.12063;stroke-linecap:round;stroke-linejoin:round"
      id="path711" />
   <rect
-     style="fill:#1859bb;fill-opacity:1;stroke-width:1.1547;stroke-linecap:round"
+     style="fill:#1859bb;fill-opacity:1;stroke-width:1.29099;stroke-linecap:round"
      id="rect341"
-     width="4"
+     width="5"
      height="1"
      x="8"
-     y="11" />
+     y="10" />
   <rect
-     style="fill:#2b7cd3;fill-opacity:1;stroke-width:1.1547;stroke-linecap:round"
+     style="fill:#2b7cd3;fill-opacity:1;stroke-width:1.29099;stroke-linecap:round"
      id="rect343"
-     width="4"
+     width="5"
      height="1"
      x="8"
-     y="9" />
+     y="8" />
   <rect
-     style="fill:#41a5ee;fill-opacity:1;stroke-width:1.1547;stroke-linecap:round"
+     style="fill:#41a5ee;fill-opacity:1;stroke-width:1.29099;stroke-linecap:round"
      id="rect345"
-     width="4"
+     width="5"
      height="1"
      x="8"
-     y="7" />
+     y="6" />
   <rect
      style="fill:#1859bb;fill-opacity:1;stroke-linecap:round"
      id="rect347"
      width="7"
      height="7"
      x="0"
-     y="6"
+     y="5"
      ry="1" />
   <path
      id="rect349"
      style="fill:#ffffff;stroke-linecap:round"
-     d="M 1,7.0000002 2,12 H 3 L 3.5,9.5000002 4,12 H 5 L 6,7.0000002 H 5 L 4.5,10 3.75,7.0000002 H 3.25 L 2.5,10 2,7.0000002 Z"
+     d="M 1,6.0000002 2,11 H 3 L 3.5,8.5000002 4,11 H 5 L 6,6.0000002 H 5 L 4.5,9 3.75,6.0000002 H 3.25 L 2.5,9 2,6.0000002 Z"
      sodipodi:nodetypes="cccccccccccccc" />
 </svg>

@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="12.921875"
-     inkscape:cx="31.961306"
+     inkscape:zoom="12.578125"
+     inkscape:cx="31.960248"
      inkscape:cy="32"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -38,14 +38,36 @@
      id="defs1012">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1116"
-       id="linearGradient1118"
-       x1="1.0583334"
-       y1="7.276042"
-       x2="14.816667"
-       y2="7.276042"
+       xlink:href="#linearGradient3238"
+       id="linearGradient3240"
+       x1="17.902164"
+       y1="29.999403"
+       x2="60"
+       y2="51"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(3.7795275,0,0,3.6826164,1.9999996,3.2051278)" />
+       gradientTransform="matrix(0.92592593,0,0,0.86111114,2.3703701,-0.05555512)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3238">
+      <stop
+         style="stop-color:#0082e5;stop-opacity:1;"
+         offset="0"
+         id="stop3234" />
+      <stop
+         style="stop-color:#42b7ff;stop-opacity:1;"
+         offset="1"
+         id="stop3236" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1116"
+       id="linearGradient1908"
+       x1="4"
+       y1="32"
+       x2="60"
+       y2="32"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.92857143,0,0,0.89473681,2.2857141,-0.63157822)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1116">
@@ -58,28 +80,6 @@
          offset="1"
          id="stop1114" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2301"
-       id="linearGradient1032"
-       x1="3.9999986"
-       y1="7"
-       x2="27.999998"
-       y2="23"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.0833333,0,0,1.9374999,-1.333329,-1.5625019)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient2301">
-      <stop
-         style="stop-color:#3fe3e7;stop-opacity:1;"
-         offset="0"
-         id="stop2297" />
-      <stop
-         style="stop-color:#066bbc;stop-opacity:1"
-         offset="1"
-         id="stop2299" />
-    </linearGradient>
   </defs>
   <path
      id="rect958"
@@ -87,26 +87,32 @@
      d="m 6,45 h 51.999998 l 3,3 H 2.999999 Z"
      sodipodi:nodetypes="ccccc" />
   <path
-     id="rect1418"
-     style="fill:#b8c2cc;stroke-width:5.00001;stroke-linecap:round;stroke-linejoin:round"
-     d="m 10,9.9999997 h 44 c 2.384122,0 3.999999,1.5850593 3.999999,4.0000003 V 27 H 6 V 14 C 6,11.378892 7.447901,9.9999997 10,9.9999997 Z"
-     sodipodi:nodetypes="sssccss" />
-  <path
-     id="rect846"
-     style="fill:url(#linearGradient1118);stroke-width:4.9355;stroke-linecap:round;stroke-linejoin:round"
-     d="m 9,11 h 45.999999 c 1.662002,0 3,1.338 3,3 V 45 H 6 V 14 c 0,-1.662 1.338,-3 3,-3 z"
-     sodipodi:nodetypes="sssccss" />
-  <rect
-     style="fill:url(#linearGradient1032);fill-opacity:1;stroke-width:3.43115;stroke-linecap:round"
-     id="rect470"
-     width="50"
-     height="31"
-     x="6.9999995"
-     y="12"
-     ry="2" />
-  <path
      id="rect1839"
      style="fill:#44484c;fill-opacity:1;stroke-width:10;stroke-linecap:round;stroke-linejoin:round"
      d="m 3,47.999997 v 2 c 0,1.107999 0.8920011,2 2,2 h 54 c 1.107999,0 2,-0.892001 2,-2 v -2 H 59 5 Z"
      sodipodi:nodetypes="csssscccc" />
+  <path
+     id="rect1418"
+     style="fill:#b8c2cc;stroke-width:5.00001;stroke-linecap:round;stroke-linejoin:round"
+     d="m 8,10 h 48 l 1.999999,1 V 26.999999 H 6 V 11 Z"
+     sodipodi:nodetypes="ccccccc" />
+  <rect
+     style="fill:url(#linearGradient1908);fill-opacity:1;stroke-width:0.911496;stroke-linecap:round"
+     id="rect1537"
+     width="52"
+     height="34"
+     x="6"
+     y="11" />
+  <rect
+     style="fill:url(#linearGradient3240);fill-opacity:1;stroke-width:0.892931;stroke-linecap:round"
+     id="rect1910"
+     width="50"
+     height="31"
+     x="7"
+     y="12" />
+  <path
+     d="M 7.0000002,12 H 38 L 21,42.999998 H 7 Z"
+     style="color:#000000;opacity:0.15;fill:#ffffff;stroke-width:0.596281"
+     id="path3898"
+     sodipodi:nodetypes="ccccc" />
 </svg>

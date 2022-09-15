@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
-   sodipodi:docname="application-vnd.ms-excel.svg"
+   sodipodi:docname="application-vnd.ms-powerpoint.template.macroenabled.12.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,7 +25,7 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="50.3125"
-     inkscape:cx="7.9900621"
+     inkscape:cx="8"
      inkscape:cy="8"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
@@ -51,28 +51,18 @@
      d="m 12,1 1,1.0000003 h -1 z"
      sodipodi:nodetypes="cccc" />
   <rect
-     style="fill:#2b593c;fill-opacity:1;stroke-width:1.29099;stroke-linecap:round"
-     id="rect341"
-     width="5"
-     height="1"
-     x="8"
-     y="10" />
+     style="fill:#efa276;fill-opacity:1;stroke-linecap:round"
+     id="rect573"
+     width="12"
+     height="4"
+     x="2.9999995"
+     y="0" />
+  <path
+     d="M 2.9999997,2.9999994 V 3.9999999 H 15 V 2.9999994 Z"
+     style="fill:#dc772e;fill-opacity:1;stroke-width:1.12063;stroke-linecap:round;stroke-linejoin:round"
+     id="path711" />
   <rect
-     style="fill:#4fae7f;fill-opacity:1;stroke-width:1.29099;stroke-linecap:round"
-     id="rect343"
-     width="5"
-     height="1"
-     x="8"
-     y="8" />
-  <rect
-     style="fill:#6dc898;fill-opacity:1;stroke-width:1.29099;stroke-linecap:round"
-     id="rect345"
-     width="5"
-     height="1"
-     x="8"
-     y="6" />
-  <rect
-     style="fill:#3f8858;stroke-linecap:round;fill-opacity:1"
+     style="fill:#cb3a22;stroke-linecap:round;fill-opacity:1"
      id="rect347"
      width="7"
      height="7"
@@ -80,7 +70,16 @@
      y="5"
      ry="1" />
   <path
-     id="rect824"
-     style="fill:#ffffff;stroke-linecap:round"
-     d="M 1.5,6 3,8.5 1.5,11 h 1 L 3.5,9.3339844 4.5,11 h 1 L 4,8.5 5.5,6 h -1 L 3.5,7.6660156 2.5,6 Z" />
+     id="path344"
+     style="fill:#e8ab72;fill-opacity:1;stroke-width:0.666667;stroke-linecap:round"
+     d="m 11,6 v 1.9999997 h 2 A 1.9999997,1.9999997 0 0 0 11,6 Z" />
+  <path
+     id="rect1758"
+     style="fill:#ffffff;fill-opacity:1;stroke-linecap:round"
+     d="m 2,6 v 5 H 3 V 9 H 3.5 C 4.3309984,9 5,8.3309984 5,7.5 5,6.6690016 4.3309984,6 3.5,6 Z M 3,7 H 3.5 C 3.7769994,7 4,7.2230006 4,7.5 4,7.7769994 3.7769994,8 3.5,8 H 3 Z"
+     sodipodi:nodetypes="ccccsscccssscc" />
+  <path
+     id="path345"
+     style="fill:#df8462;stroke-width:0.799927;fill-opacity:1"
+     d="M 10 7 A 2 2 0 0 0 8 9 A 2 2 0 0 0 10 11 A 2 2 0 0 0 12 9 L 10 9 L 10 7 z " />
 </svg>
