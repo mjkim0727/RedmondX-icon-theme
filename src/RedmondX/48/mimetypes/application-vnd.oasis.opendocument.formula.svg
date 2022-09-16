@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
-   sodipodi:docname="application-vnd.ms-powerpoint.svg"
+   sodipodi:docname="application-vnd.oasis.opendocument.formula.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -46,27 +46,13 @@
      d="M 9.0000003,3.0000003 V 45.000004 H 39 V 13 h -9 c -0.554003,0 -1,-0.446 -1,-1 V 3.0000003 Z M 30,3.0000003 V 12 h 9 z"
      sodipodi:nodetypes="ccccsscccccc" />
   <path
-     id="path344"
-     style="fill:#f1ab69;fill-opacity:1;stroke-width:2.33332;stroke-linecap:round"
-     d="m 29,17 v 7 h 7 a 6.9999987,6.9999987 0 0 0 -7,-7 z" />
-  <path
-     id="path345"
-     style="fill:#e77d57;fill-opacity:1;stroke-width:2.79977"
-     d="m 28,18 a 7,7 0 0 0 -6,3.417969 v 7.164062 A 7,7 0 0 0 28,32 7,7 0 0 0 35,25 h -7 z" />
-  <path
-     id="path649"
-     style="fill:#ed6c47;fill-opacity:1;stroke-width:3.5"
-     d="m 22,25 v 3.59375 A 7,7 0 0 0 28,32 7,7 0 0 0 35,25 Z" />
-  <rect
-     style="fill:#cb3a22;fill-opacity:1;stroke-width:2;stroke-linejoin:round"
      id="rect844"
-     width="20"
-     height="20"
-     x="1"
-     y="15"
-     ry="1.9999999" />
+     style="fill:#808080;stroke-width:1.99999;stroke-linecap:round;stroke-linejoin:round"
+     d="M 22.5,26 20.6245,34 18.75,31.5 18,32 l 2.9995,4 2.227062,-9 H 30 v -1 h -6.5 z m 1.5,3 2,3 -2,3 h 1 L 26.5,32.75 28,35 h 1 l -2,-3 2,-3 H 28 L 26.5,31.25 25,29 Z"
+     sodipodi:nodetypes="ccccccccccccccccccccccc" />
   <path
-     id="rect16145"
-     style="fill:#ffffff;fill-opacity:1;stroke-width:1.22115;stroke-linecap:round;stroke-linejoin:round"
-     d="m 7.0000003,19.000001 v 12 H 8.8889628 V 26.45727 h 1.8070752 c 2.605108,0 4.526037,-1.204621 4.526037,-3.809727 0,-2.71908 -1.920994,-3.647542 -4.591228,-3.647542 z m 1.8889625,1.531205 h 1.5630052 c 1.904984,0 2.897841,0.520709 2.897841,2.116337 0,1.546782 -0.928046,2.279316 -2.816749,2.279316 H 8.8889628 Z" />
+     id="rect3044"
+     style="fill:#b3b3b3;stroke-width:2.05797;stroke-linecap:round;stroke-linejoin:round"
+     d="m 14,20 v 3 h -3 v 1 h 3 v 14 h -3 v 1 h 3 v 3 h 1 v -3 h 18 v 3 h 1 v -3 h 3.000001 V 38 H 34 V 24 h 3.000001 V 23 H 34 v -3 h -1 v 3 H 15 v -3 z m 1,4 H 33 V 38 H 15 Z"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc" />
 </svg>
