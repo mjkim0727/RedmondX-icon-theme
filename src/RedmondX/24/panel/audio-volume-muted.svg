@@ -42,12 +42,12 @@
    </style>
   </defs>
   <path
-     id="path1-3"
-     style="fill:currentColor;stroke:none;-inkscape-stroke:none"
-     d="M 11,7 7.5,10 H 5 c -0.5539967,0 -1,0.446004 -1,1 v 3 c 0,0.553996 0.4460033,1 1,1 H 7.5 L 11,18 Z M 10,9.3496094 V 15.75 L 7.9140625,14 H 5 v -3 h 2.9140625 z"
-     class="ColorScheme-Text" />
+     id="path1"
+     style="color:#dedede;fill:currentColor;stroke:none;-inkscape-stroke:none"
+     class="ColorScheme-Text"
+     d="M 9.2929688,5.996 6.2910156,8.9979531 H 4 v 6.0039059 h 2.2910156 l 3.0019532,3.001953 H 10.003906 V 5.996 Z M 9.0019531,7.7088906 V 16.290922 L 6.7128906,13.999906 H 5 V 9.9999062 h 1.7128906 z" />
   <path
-     d="m 12.525,10.943359 2.060547,2.060547 -2.060547,2.060547 0.707031,0.707031 2.060547,-2.060546 2.060547,2.060546 0.707031,-0.707031 -2.060547,-2.060547 2.060547,-2.060547 -0.707031,-0.707031 -2.060547,2.060547 -2.060547,-2.060547 z"
+     d="m 12.525,9.9430313 2.060547,2.0605467 -2.060547,2.060547 0.707031,0.707031 2.060547,-2.060547 2.060547,2.060547 0.707031,-0.707031 L 15.999609,12.003578 18.060156,9.9430313 17.353125,9.236 15.292578,11.296547 13.232031,9.236 Z"
      style="color:#dedede;fill:currentColor;fill-opacity:1;stroke-width:2.001;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:normal"
      id="path1-5"
      sodipodi:nodetypes="ccccccccccccc" />

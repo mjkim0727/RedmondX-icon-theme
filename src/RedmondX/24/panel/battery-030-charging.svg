@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24.000002"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="battery-030-charging.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="34.166667"
+     inkscape:cx="11.985366"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+   </style>
+  </defs>
+  <path
+     id="path1"
+     style="fill:currentColor;stroke-width:2"
+     class="ColorScheme-Text"
+     d="m 10,7 v 1 h 8 v 8 H 8 v 1 h 11 v -3 h 1 V 10 H 19 V 7 Z" />
+  <path
+     id="path2"
+     style="fill:currentColor;stroke-width:2"
+     class="ColorScheme-Text"
+     d="m 10,9.5 c 0,1.401315 -0.816023,2.602735 -2,3.162109 V 15 h 2 z" />
+  <path
+     id="rect1"
+     style="fill:currentColor;stroke-width:2"
+     class="ColorScheme-Text"
+     d="M 5,5 V 7 H 4 v 2.5 c 0,1.213954 0.8557929,2.221082 2,2.451172 V 17 H 7 V 11.951172 C 8.144207,11.721082 9,10.713954 9,9.5 V 7 H 8 V 5 H 7 V 7 H 6 V 5 Z M 5,8 H 8 V 9.5 C 8,10.330997 7.3309968,11 6.5,11 5.6690032,11 5,10.330997 5,9.5 Z" />
+</svg>

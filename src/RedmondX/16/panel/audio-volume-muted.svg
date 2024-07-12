@@ -42,12 +42,12 @@
    </style>
   </defs>
   <path
-     id="path1-3"
-     style="fill:currentColor;stroke:none;-inkscape-stroke:none"
-     d="M 7 3 L 3.5 6 L 1 6 C 0.44600325 6 0 6.4460036 0 7 L 0 10 C 0 10.553996 0.44600325 11 1 11 L 3.5 11 L 7 14 L 7 3 z M 6 5.3496094 L 6 11.75 L 3.9140625 10 L 1 10 L 1 7 L 3.9140625 7 L 6 5.3496094 z "
-     class="ColorScheme-Text" />
+     id="path1"
+     style="color:#dedede;fill:currentColor;stroke:none;-inkscape-stroke:none"
+     class="ColorScheme-Text"
+     d="M 5.2929688,1.996 2.2910156,4.9979531 H 0 v 6.0039059 h 2.2910156 l 3.0019532,3.001953 H 6.0039062 V 1.996 Z M 5.0019531,3.7088906 V 12.290922 L 2.7128906,9.999906 H 1 V 5.9999062 h 1.7128906 z" />
   <path
-     d="M 8.525,6.9433594 10.585547,9.0039062 8.525,11.064453 9.2320314,11.771484 11.292578,9.7109375 13.353125,11.771484 14.060156,11.064453 11.999609,9.0039062 14.060156,6.9433594 13.353125,6.2363281 11.292578,8.296875 9.2320314,6.2363281 Z"
+     d="M 8.525,5.9430313 10.585547,8.0035781 8.525,10.064125 9.2320314,10.771156 11.292578,8.7106094 13.353125,10.771156 14.060156,10.064125 11.999609,8.0035781 14.060156,5.9430313 13.353125,5.236 11.292578,7.2965469 9.2320314,5.236 Z"
      style="color:#dedede;fill:currentColor;fill-opacity:1;stroke-width:2.001;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:normal"
      id="path1-5"
      sodipodi:nodetypes="ccccccccccccc" />
