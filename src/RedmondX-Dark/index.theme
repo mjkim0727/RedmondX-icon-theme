@@ -7,7 +7,7 @@ Name[zh_TW]=RedmondX (Dark)
 Comment=Windows Style icon theme
 Comment[en]=Windows Style icon theme
 Comment[ko]=Windows 스타일 아이콘 테마
-Inherits=Cobalt-dark,breeze-dark,hicolor
+Inherits=Eleven-dark,breeze-dark,hicolor
 Example=folder
 
 FollowsColorScheme=true
