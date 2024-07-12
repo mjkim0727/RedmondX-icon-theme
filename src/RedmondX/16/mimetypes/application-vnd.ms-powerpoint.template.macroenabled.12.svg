@@ -25,10 +25,10 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="50.3125"
-     inkscape:cx="7.4732919"
-     inkscape:cy="8.0099379"
+     inkscape:cx="8"
+     inkscape:cy="8"
      inkscape:window-width="1920"
-     inkscape:window-height="1010"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -45,14 +45,6 @@
      style="fill:#fafafa"
      d="m 4,1 h 7 v 2 h 3 V 15 H 4 Z"
      sodipodi:nodetypes="ccccccc" />
-  <path
-     id="path344"
-     style="fill:#f1ab69;fill-opacity:1;stroke-width:0.666667;stroke-linecap:round"
-     d="m 11,6 v 1.9999997 h 2 A 1.9999997,1.9999997 0 0 0 11,6 Z" />
-  <path
-     id="path345"
-     style="fill:#e77d57;fill-opacity:1;stroke-width:0.799927"
-     d="m 10,7 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 h -2 z" />
   <path
      id="rect1800"
      style="fill:#fafafa;stroke-width:0.25"
@@ -78,8 +70,16 @@
      y="5"
      ry="1" />
   <path
+     id="path344"
+     style="fill:#e8ab72;fill-opacity:1;stroke-width:0.666667;stroke-linecap:round"
+     d="m 11,6 v 1.9999997 h 2 A 1.9999997,1.9999997 0 0 0 11,6 Z" />
+  <path
      id="rect1758"
      style="fill:#ffffff;fill-opacity:1;stroke-linecap:round"
      d="m 2,6 v 5 H 3 V 9 H 3.5 C 4.3309984,9 5,8.3309984 5,7.5 5,6.6690016 4.3309984,6 3.5,6 Z M 3,7 H 3.5 C 3.7769994,7 4,7.2230006 4,7.5 4,7.7769994 3.7769994,8 3.5,8 H 3 Z"
      sodipodi:nodetypes="ccccsscccssscc" />
+  <path
+     id="path345"
+     style="fill:#df8462;stroke-width:0.799927;fill-opacity:1"
+     d="M 10 7 A 2 2 0 0 0 8 9 A 2 2 0 0 0 10 11 A 2 2 0 0 0 12 9 L 10 9 L 10 7 z " />
 </svg>

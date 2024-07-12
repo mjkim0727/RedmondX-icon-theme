@@ -38,72 +38,6 @@
      id="defs2109">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient2986"
-       id="linearGradient1165"
-       x1="2.6458335"
-       y1="3.8364599"
-       x2="1.0583335"
-       y2="3.8364599"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(3.7795275,0,0,3.7795275,1,0)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient2986">
-      <stop
-         style="stop-color:#818990;stop-opacity:1;"
-         offset="0"
-         id="stop2982" />
-      <stop
-         style="stop-color:#9fa8b0;stop-opacity:1"
-         offset="1"
-         id="stop2984" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3238"
-       id="linearGradient3240"
-       x1="17.902164"
-       y1="29.999403"
-       x2="60"
-       y2="51"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.22222223,0,0,0.22222222,0.88888961,-0.1111109)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3238">
-      <stop
-         style="stop-color:#0082e5;stop-opacity:1;"
-         offset="0"
-         id="stop3234" />
-      <stop
-         style="stop-color:#42b7ff;stop-opacity:1;"
-         offset="1"
-         id="stop3236" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1116"
-       id="linearGradient1908"
-       x1="4"
-       y1="32"
-       x2="60"
-       y2="32"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.24999999,0,0,0.2631579,-1.9088867e-6,-1.4210523)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1116">
-      <stop
-         style="stop-color:#555a5f;stop-opacity:1;"
-         offset="0"
-         id="stop1112" />
-      <stop
-         style="stop-color:#4b4f53;stop-opacity:1"
-         offset="1"
-         id="stop1114" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient162116"
        id="linearGradient162118"
        x1="96.408417"
@@ -248,6 +182,72 @@
          offset="1"
          id="stop16448" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2986"
+       id="linearGradient1165"
+       x1="2.6458335"
+       y1="3.8364599"
+       x2="1.0583335"
+       y2="3.8364599"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.7795275,0,0,3.7795275,1,0)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2986">
+      <stop
+         style="stop-color:#818990;stop-opacity:1;"
+         offset="0"
+         id="stop2982" />
+      <stop
+         style="stop-color:#9fa8b0;stop-opacity:1"
+         offset="1"
+         id="stop2984" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1116"
+       id="linearGradient1908"
+       x1="4"
+       y1="32"
+       x2="60"
+       y2="32"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.24999999,0,0,0.2631579,1e-7,-1.4210523)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1116">
+      <stop
+         style="stop-color:#555a5f;stop-opacity:1;"
+         offset="0"
+         id="stop1112" />
+      <stop
+         style="stop-color:#4b4f53;stop-opacity:1"
+         offset="1"
+         id="stop1114" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3238"
+       id="linearGradient3240"
+       x1="17.902164"
+       y1="29.999403"
+       x2="60"
+       y2="51"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.22222223,0,0,0.22222222,0.8888896,-0.1111109)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3238">
+      <stop
+         style="stop-color:#0082e5;stop-opacity:1;"
+         offset="0"
+         id="stop3234" />
+      <stop
+         style="stop-color:#42b7ff;stop-opacity:1;"
+         offset="1"
+         id="stop3236" />
+    </linearGradient>
   </defs>
   <rect
      style="fill:#bcc5cf;fill-opacity:1;stroke-width:0.795742;stroke-linecap:round;stroke-linejoin:round"
@@ -257,34 +257,34 @@
      x="6.9999995"
      y="11.999999" />
   <rect
-     style="fill:url(#linearGradient1908);fill-opacity:1;stroke-width:0.256494;stroke-linecap:round"
-     id="rect1537"
-     width="14"
-     height="10"
-     x="0.99999803"
-     y="1.9999999" />
-  <rect
-     style="fill:url(#linearGradient3240);fill-opacity:1;stroke-width:0.222222;stroke-linecap:round"
-     id="rect1910"
-     width="12"
-     height="8"
-     x="2.000001"
-     y="3" />
-  <path
-     d="M 2,3 H 9 L 5.0000003,11 H 2 Z"
-     style="color:#000000;opacity:0.15;fill:#ffffff;stroke-width:0.188561"
-     id="path3898"
-     sodipodi:nodetypes="ccccc" />
-  <rect
      style="fill:url(#linearGradient1165);fill-opacity:1;stroke-width:1.63664;stroke-linecap:round;stroke-linejoin:round"
      id="rect1839"
      width="6"
      height="1"
      x="5.0000005"
-     y="14.000005" />
+     y="14.000004" />
+  <rect
+     style="fill:url(#linearGradient1908);fill-opacity:1;stroke-width:0.256494;stroke-linecap:round"
+     id="rect1537"
+     width="14"
+     height="10"
+     x="1"
+     y="2" />
+  <rect
+     style="fill:url(#linearGradient3240);fill-opacity:1;stroke-width:0.222222;stroke-linecap:round"
+     id="rect1910"
+     width="12"
+     height="8"
+     x="2.0000007"
+     y="3" />
+  <path
+     d="m 2,3 h 8 L 5.0000003,11 H 2 Z"
+     style="color:#000000;opacity:0.15;fill:#ffffff;stroke-width:0.188561"
+     id="path3898"
+     sodipodi:nodetypes="ccccc" />
   <g
      id="g1021"
-     transform="matrix(3.7795275,0,0,3.7795275,0,1.0921978e-4)">
+     transform="scale(3.7795275)">
     <path
        id="path151229"
        style="fill:url(#linearGradient162118);fill-opacity:1;stroke-width:0.372844;stroke-linecap:round;stroke-linejoin:round"
