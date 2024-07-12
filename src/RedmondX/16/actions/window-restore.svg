@@ -34,10 +34,16 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+   </style>
+  </defs>
   <path
      id="rect234"
-     style="fill:#000000;fill-opacity:1"
-     d="M 6,4 V 6 H 4 v 6 h 6 v -2 h 2 V 4 Z m 1,1 h 4 V 9 H 10 V 6 H 7 Z M 5,7 h 4 v 4 H 5 Z"
-     sodipodi:nodetypes="ccccccccccccccccccccc" />
+     style="fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 6,4 V 6 H 4 v 6 h 6 v -2 h 2 V 4 Z m 1,1 h 4 V 9 H 10 V 6 H 7 Z M 5,7 h 4 v 4 H 5 Z" />
 </svg>

@@ -34,10 +34,17 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+   </style>
+  </defs>
   <path
      id="rect1127"
-     style="fill:#000000;fill-opacity:1"
+     style="fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text"
      d="M 6.3142426 -0.49994659 L 6.3142426 0.49994659 L 10.813762 0.49994659 L 10.813762 4.9994659 L 11.813655 4.9994659 L 11.813655 0.49994659 L 16.313174 0.49994659 L 16.313174 -0.49994659 L 11.813655 -0.49994659 L 11.813655 -4.9994659 L 10.813762 -4.9994659 L 10.813762 -0.49994659 L 6.3142426 -0.49994659 z "
      transform="rotate(45)" />
 </svg>

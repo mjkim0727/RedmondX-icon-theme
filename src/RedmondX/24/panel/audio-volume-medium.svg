@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg423"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="audio-volume-medium.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview425"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="34.166667"
+     inkscape:cx="11.985366"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg423" />
+  <defs
+     id="defs420">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+   </style>
+  </defs>
+  <path
+     id="path1"
+     style="fill:currentColor;stroke:none;-inkscape-stroke:none"
+     d="M 11,7 7.5,10 H 5 c -0.5539967,0 -1,0.446004 -1,1 v 3 c 0,0.553996 0.4460033,1 1,1 H 7.5 L 11,18 Z M 10,9.3496094 V 15.75 L 7.9140625,14 H 5 v -3 h 2.9140625 z"
+     class="ColorScheme-Text" />
+  <path
+     id="path2"
+     style="color:#dedede;fill:currentColor;stroke-width:1.92898;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:normal"
+     d="M 14.949219,7.90115 14.242188,8.5582001 C 15.367578,9.6038527 15.9998,11.021606 16,12.5005 c -2e-4,1.478894 -0.632422,2.896647 -1.757812,3.9423 l 0.707031,0.65705 C 16.261909,15.880233 16.99972,14.225477 17,12.5005 16.99972,10.775524 16.261909,9.1207682 14.949219,7.90115 Z M 12.828125,9.8723001 12.121094,10.52935 C 12.683861,11.052223 12.99988,11.76096 13,12.5005 c -1.2e-4,0.739541 -0.316139,1.448277 -0.878906,1.97115 l 0.707031,0.65705 C 13.578191,14.431816 13.99984,13.486123 14,12.5005 13.99984,11.514878 13.578191,10.569185 12.828125,9.8723001 Z" />
+  <path
+     d="M 17.070312,5.93 16.363281,6.5870501 C 18.051276,8.1554358 18.9997,10.282252 19,12.5005 c -3e-4,2.218249 -0.948724,4.345063 -2.636719,5.91345 L 17.070312,19.071 C 18.945607,17.328649 19.999599,14.964831 20,12.5005 19.999599,10.03617 18.945607,7.6723513 17.070312,5.93 Z"
+     style="opacity:0.2;fill:currentColor;stroke-width:1.92898;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:normal"
+     id="path3"
+     class="ColorScheme-Text" />
+</svg>
