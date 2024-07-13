@@ -1,5 +1,5 @@
 # RedmondX-icon-theme
-Fluent Design icon theme
+Fluent Design icon theme for Linux Desktop
 
 ## Sources
 
