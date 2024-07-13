@@ -6,15 +6,15 @@
    height="24"
    viewBox="0 0 24 24"
    version="1.1"
-   id="svg5"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   id="svg1"
    sodipodi:docname="network-wireless-signal-ok.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview7"
+     id="namedview1"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -23,7 +23,6 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     showgrid="false"
      inkscape:zoom="34.166667"
      inkscape:cx="11.985366"
      inkscape:cy="12"
@@ -32,9 +31,9 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
+     inkscape:current-layer="svg1" />
   <defs
-     id="defs2">
+     id="defs1">
     <style
        id="current-color-scheme"
        type="text/css">
@@ -42,14 +41,13 @@
     </style>
   </defs>
   <path
-     id="path234"
-     style="fill:currentColor;fill-opacity:1;stroke-linecap:round;-inkscape-stroke:none"
-     d="M 18.5,13 C 15.468362,13 13,15.468362 13,18.5 13,18.776142 13.223858,19 13.5,19 13.776142,19 14,18.776142 14,18.5 14,16.008801 16.008801,14 18.5,14 18.776142,14 19,13.776142 19,13.5 19,13.223858 18.776142,13 18.5,13 Z M 18,17 c -0.552285,0 -1,0.447715 -1,1 0,0.552285 0.447715,1 1,1 0.552285,0 1,-0.447715 1,-1 0,-0.552285 -0.447715,-1 -1,-1 z"
-     sodipodi:nodetypes="ssssssssssss"
-     class="ColorScheme-Text" />
-  <path
-     id="path1811"
-     style="opacity:0.2;fill:currentColor;fill-opacity:1;stroke-linecap:round;-inkscape-stroke:none"
+     id="path1"
+     style="opacity:0.2;fill:currentColor;fill-opacity:1;stroke-width:9.33333"
      class="ColorScheme-Text"
-     d="M 18.5,5 C 11.050101,5 5,11.0501 5,18.5 5,18.776142 5.2238579,19 5.5,19 5.7761421,19 6,18.776142 6,18.5 6,11.590539 11.590539,6 18.5,6 18.776142,6 19,5.7761421 19,5.5 19,5.2238579 18.776142,5 18.5,5 Z m 0,4 C 13.259233,9 9,13.259233 9,18.5 9,18.776142 9.2238579,19 9.5,19 9.7761421,19 10,18.776142 10,18.5 10,13.799671 13.799672,10 18.5,10 18.776142,10 19,9.7761421 19,9.5 19,9.2238579 18.776142,9 18.5,9 Z" />
+     d="M 19,5 C 11.268029,5 5,11.268029 5,19 H 6 C 6,11.820313 11.820313,6 19,6 Z m 0,4 C 13.477165,9 9,13.477164 9,19 h 1 c 0,-4.970553 4.029447,-9 9,-9 z" />
+  <path
+     id="path2"
+     style="fill:currentColor;fill-opacity:1;stroke-width:2"
+     class="ColorScheme-Text"
+     d="m 19,13 c -3.313708,0 -6,2.686292 -6,6 h 1 c 0,-2.761424 2.238576,-5 5,-5 z m -1,4 c -0.552285,0 -1,0.447715 -1,1 0,0.552285 0.447715,1 1,1 0.552285,0 1,-0.447715 1,-1 0,-0.552285 -0.447715,-1 -1,-1 z" />
 </svg>

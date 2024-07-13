@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="network-wireless-signal-ok.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="37.272727"
+     inkscape:cx="10.986585"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#3daee9; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+    </style>
+  </defs>
+  <path
+     id="path1"
+     style="opacity:0.2;fill:currentColor;fill-opacity:1;stroke-width:9.33333"
+     class="ColorScheme-Text"
+     d="M 18 4 C 10.268029 4 4 10.268029 4 18 L 5 18 C 5 10.820313 10.820313 5 18 5 L 18 4 z M 18 8 C 12.477165 8 8 12.477164 8 18 L 9 18 C 9 13.029447 13.029447 9 18 9 L 18 8 z " />
+  <path
+     id="path2"
+     style="fill:currentColor;fill-opacity:1;stroke-width:2"
+     class="ColorScheme-Text"
+     d="m 18,12 c -3.313708,0 -6,2.686292 -6,6 h 1 c 0,-2.761424 2.238576,-5 5,-5 z m -1,4 c -0.552285,0 -1,0.447715 -1,1 0,0.552285 0.447715,1 1,1 0.552285,0 1,-0.447715 1,-1 0,-0.552285 -0.447715,-1 -1,-1 z"
+     sodipodi:nodetypes="cccccsssss" />
+</svg>
