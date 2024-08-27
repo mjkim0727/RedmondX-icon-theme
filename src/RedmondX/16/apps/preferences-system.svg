@@ -7,7 +7,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg532"
-   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    sodipodi:docname="preferences-system.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="50.625"
-     inkscape:cx="7.9901235"
+     inkscape:zoom="52.5625"
+     inkscape:cx="7.9904875"
      inkscape:cy="8"
      inkscape:window-width="1920"
-     inkscape:window-height="1012"
+     inkscape:window-height="1033"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -38,12 +38,12 @@
      id="defs529">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient7024"
+       xlink:href="#linearGradient8250"
        id="linearGradient7026"
-       x1="14.634075"
-       y1="13.653037"
-       x2="4.0507412"
-       y2="3.0697033"
+       x1="4.5799093"
+       y1="3.5988626"
+       x2="14.104909"
+       y2="13.123862"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.83989503,0,0,0.83989503,0.15335708,0.97733308)" />
     <linearGradient
@@ -64,7 +64,7 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient8250"
+       xlink:href="#linearGradient7024"
        id="linearGradient8252"
        x1="5.458415"
        y1="4.8895097"
